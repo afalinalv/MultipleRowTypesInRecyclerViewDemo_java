@@ -1,6 +1,6 @@
 package io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Data;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Factory.ViewHolderFactory;
 import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Interfaces.RowType;

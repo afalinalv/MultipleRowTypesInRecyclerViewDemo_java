@@ -1,21 +1,13 @@
 package io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Adapter;
 
-import android.support.v7.widget.RecyclerView;
-import android.view.LayoutInflater;
-import android.view.View;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 import java.util.List;
 
-import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Data.ButtonRowType;
-import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Data.ImageRowType;
-import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Data.TextRowType;
 import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Factory.ViewHolderFactory;
 import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Interfaces.RowType;
-import io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.R;
 
 /**
  * Created by zigin on 14.11.2017.

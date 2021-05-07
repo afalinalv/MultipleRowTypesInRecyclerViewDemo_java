@@ -1,6 +1,6 @@
 package io.github.ziginsider.multiplerowtypesinrecyclerviewdemo.Interfaces;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Created by zigin on 13.11.2017.
